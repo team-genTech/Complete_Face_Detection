@@ -23,7 +23,7 @@ For me I had all the files stored in 'E:\\face_identification\\'
   --This is the main file which calls all the functions and starts our webcam to detect the faces.
 
 
-HAPPY HACKING!!
+# HAPPY HACKING!!
 
 
 
