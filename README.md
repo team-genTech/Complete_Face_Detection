@@ -12,10 +12,10 @@ For me I had all the files stored in 'E:\\face_identification\\'
     Hence the next images captured would be stored in 'E:\\face_identification\\Data\\1' and so on.
     
 ### >face_recognizer.py
-  --This is used to detect the faces, generate labels from data and place the rectangle and text in the frame
+  --This is used to detect the faces, generate labels from data and place the rectangle and text within the frame
   
 ### >training.py
-  --This is used for the training purpose, and create our saved model
+  --This is used for the training purpose, and creating our saved model
 
 ### >main_calling.py
   --This is the main file which calls all the functions and starts our webcam to detect the faces.
