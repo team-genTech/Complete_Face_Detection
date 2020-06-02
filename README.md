@@ -3,7 +3,7 @@ Face Detection using LBPH Face recognition
 Be sure to change the directory of the file to where you download.
 For me I had all the files stored in 'E:\\face_identification\\'
 'E:\\face_identification\\Data' is used to store the captured images.
-## Just a note, I will be explaining as per my directory
+# Just a note, I will be explaining as per my directory
 # Be sure to create your face dataset at the beginning(I've deleted mine :p) 
 There are 4 main Files that we need here:
 >creating_data.py
