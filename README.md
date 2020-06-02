@@ -1,6 +1,7 @@
 # Complete_Face_Detection
 Face Detection using LBPH Face recognition
-Just ignore the mtcnn_face_webcam.py file.We can open it just to check how face detection works.
+
+#### Just ignore the mtcnn_face_webcam.py file.We can open it just to check how face detection works.
 Be sure to change the directory of the file to where you download.
 For me I had all the files stored in 'E:\\face_identification\\'
 'E:\\face_identification\\Data' is used to store the captured images.
